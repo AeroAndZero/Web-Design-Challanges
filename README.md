@@ -1,2 +1,3 @@
-# Web Design Challanges
- Just to practise my css skills
+# Daily (sort of) Web Design Challanges
+Each design has its own unique branch.     
+Change branch to see different designs.
