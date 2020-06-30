@@ -1,3 +1,4 @@
-# Daily (sort of) Web Design Challanges
-Each design has its own unique branch.     
-Change branch to see different designs.
+Design-1
+# Web Design Challanges
+ Preview :        
+ ![Preview](image.png)
